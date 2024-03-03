@@ -15,7 +15,7 @@
       var ch=small(i).charAt(index);
       return ch;
   };
-  console.log(firstLetter());
+  // console.log(firstLetter());
 
    
     if (firstLetter(i)=='j') {
